@@ -1,0 +1,6 @@
+{
+  "name": "Bass Scale Catalog",
+  "description": "An app to search, save, and export bass guitar scales with LilyPond notation for sheet music and tablature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
