@@ -1,9 +1,9 @@
 {
-  apiKey: "AIzaSyCAT8yhDpFuHij3iHG2bLwB-4F11ode0wU",
-  authDomain: "low-end-libary.firebaseapp.com",
-  projectId: "low-end-libary",
-  storageBucket: "low-end-libary.firebasestorage.app",
-  messagingSenderId: "671357072403",
-  appId: "1:671357072403:web:26a416b6e4662e952e7be6",
-  measurementId: "G-M03XMB30JD"
+  "apiKey": "AIzaSyCAT8yhDpFuHij3iHG2bLwB-4F11ode0wU",
+  "authDomain": "low-end-libary.firebaseapp.com",
+  "projectId": "low-end-libary",
+  "storageBucket": "low-end-libary.firebasestorage.app",
+  "messagingSenderId": "671357072403",
+  "appId": "1:671357072403:web:26a416b6e4662e952e7be6",
+  "measurementId": "G-M03XMB30JD"
 }
